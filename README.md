@@ -24,10 +24,3 @@ Linguagens:
 <br>
 <br>
 <br>
-[![Lucas Levi stats](https://github-readme-stats.vercel.app/api?username=lucaslevi2003)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
