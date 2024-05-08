@@ -21,3 +21,7 @@ Linguagens:
   <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></li>
   <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
 </ul>
+<br>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslevi2003&layout=donut">
+<br>
+<img src= "https://github-readme-stats.vercel.app/api?username=lucaslevi2003&show_icons=true&theme=merko">
