@@ -24,6 +24,6 @@ Linguagens:
   <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
 </ul>
 <br>
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslevi2003&layout=donut">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-LeviSantos&layout=donut">
 <br>
-<img src= "https://github-readme-stats.vercel.app/api?username=lucaslevi2003&show_icons=true&theme=merko">
+<img src= "https://github-readme-stats.vercel.app/api?username=Lucas-LeviSantos&show_icons=true&theme=merko">
