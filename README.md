@@ -10,7 +10,8 @@ Aqui é onde passo meu tempo, onde o aprendizado, criatividade e imaginação se
 <br>
 <br>
 <h3>Me siga:</h3>
-<a href="https://www.instagram.com/lucas_levi.silva?igsh=MWFoMWd2eTliZ3U5bQ=="><img src="https://static.vecteezy.com/system/resources/previews/018/930/473/original/instagram-logo-instagram-icon-transparent-free-png.png" width=50px height=auto></a>
+<a href="https://www.instagram.com/lucas_levi.silva?igsh=MWFoMWd2eTliZ3U5bQ=="><img src="https://th.bing.com/th/id/R.af1159ea3dd22f4b3d84a87d869127b9?rik=iz68IEBoErXAHw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2finstagram-icon-png-instagram-icon-1600.png&ehk=%2bAo2wF7lgRZJrtXPe3ev37c8JDCD6NBcj%2fGufhuhjQE%3d&risl=&pid=ImgRaw&r=0" width=35px height=auto></a>
+<br>
 <br>
 <a href="https://www.linkedin.com/in/lucas-levisantos"><img src="https://cameronmorin.github.io/assets/linkedin_img.png" width=35px></a>
 <br>
